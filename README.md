@@ -139,7 +139,6 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-
 1.IMPULSE SAMPLING OUTPUT WAVEFORM:
 <img width="739" height="526" alt="image" src="https://github.com/user-attachments/assets/e86d8d3c-b79c-41d4-baf9-40e612092b45" />
 2.NATURAL SAMPLING OUTPUT WAVEFORM:
