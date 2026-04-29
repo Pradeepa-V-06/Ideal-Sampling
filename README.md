@@ -141,10 +141,11 @@ plt.show()
 # Output Waveform
 1.IMPULSE SAMPLING OUTPUT WAVEFORM:
 <img width="739" height="526" alt="image" src="https://github.com/user-attachments/assets/e86d8d3c-b79c-41d4-baf9-40e612092b45" />
+
 2.NATURAL SAMPLING OUTPUT WAVEFORM:
 <img width="947" height="756" alt="image" src="https://github.com/user-attachments/assets/02108d18-3292-4340-8693-d6469881ea5d" />
+
 3.FLAT-TOP SAMPLING OUTPUT WAVEFORM:
 <img width="777" height="761" alt="image" src="https://github.com/user-attachments/assets/2de9ac57-325b-4f04-9fd8-b801173a36bc" />
-
 # Results
 Thus, the construction and reconstruction of Ideal, Natural, and Flat-top sampling were successfully implemented and the corresponding waveforms were obtained.
